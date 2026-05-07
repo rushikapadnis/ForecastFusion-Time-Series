@@ -1,0 +1,26 @@
+RUN THESE COMMANDS EXACTLY
+
+1. CREATE ENV
+python -m venv venv
+
+2. ACTIVATE
+venv\Scripts\activate
+
+3. INSTALL
+pip install -r requirements.txt
+
+4. TRAIN
+python -m app.train
+
+5. RUN API
+uvicorn app.api:app --reload
+
+6. OPEN
+http://127.0.0.1:8000/docs
+
+NOTES:
+- Prophet backend issue fixed
+- LSTM warning fixed
+- ARIMA datetime index fixed
+- Infinite retraining issue fixed
+- Model saving fixed
