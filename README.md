@@ -1,6 +1,6 @@
 # 📈 ForecastFusion – End-to-End Time Series Forecasting System
 
-ForecastFusion is an AI-powered time series forecasting platform that automatically selects the best-performing forecasting model for a given dataset. It combines statistical, machine learning, and deep learning approaches to generate accurate future predictions through a FastAPI-based REST API.
+ForecastFusion is an time series forecasting platform that automatically selects the best-performing forecasting model for a given dataset. It combines statistical, machine learning, and deep learning approaches to generate accurate future predictions through a FastAPI-based REST API.
 
 > **Tech Focus:** Time Series Forecasting • Machine Learning • Deep Learning • FastAPI • XGBoost • LSTM
 
