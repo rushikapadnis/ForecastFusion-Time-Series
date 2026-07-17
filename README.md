@@ -201,10 +201,4 @@ http://127.0.0.1:8000
 
 ---
 
-# 👨‍💻 Author
 
-## Rushikesh Kapadnis
-
-**AI/ML Engineer | Data Scientist | Generative AI Developer**
-
-**Skills:** Python • SQL • FastAPI • Machine Learning • Time Series Forecasting • XGBoost • LSTM • ARIMA • Prophet
